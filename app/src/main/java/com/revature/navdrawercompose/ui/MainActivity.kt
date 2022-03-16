@@ -1,4 +1,4 @@
-package com.revature.navdrawercompose
+package com.revature.navdrawercompose.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
